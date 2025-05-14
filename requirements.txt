@@ -1,0 +1,10 @@
+flask
+flask-ngrok
+pyngrok
+langchain
+langchain-community
+faiss-cpu
+tiktoken
+unstructured[pdf]
+transformers
+sentence-transformers
